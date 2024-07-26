@@ -1,6 +1,6 @@
-## Salutations et bienvenue sur mon profil GitHub 👋
+# Salutations et bienvenue sur mon profil GitHub 👋
 
-##► ANNONCE: Je cherche un stage du 23/09/24 au 19/11/24, puis un boulot ou une alternance par la suite !
+---------- ANNONCE: Je cherche un stage du 23/09/24 au 19/11/24, puis un boulot ou une alternance par la suite !--------------
 
 ## Compétences actuelles (ça va encore évoluer d'ici la fin de la formation 😄):
 - **Langages**: HTML, CSS, Javascript, SQL
