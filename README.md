@@ -28,6 +28,8 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 
 ## 🌟 Stats
 ![Mes stats de langages d'après GitHub 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentGarcia369963&layout=compact&theme=radical)
+Voici la véritable image de mes activités depuis le début de ma formation:
+
 
 
 <!--
