@@ -20,6 +20,12 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 - **Email**: [sahdry@hotmail.fr](mailto:sahdry@hotmail.fr)
 - **LinkedIn**: [Visitez mon profil!](https://www.linkedin.com/in/florent-garcia-dev/)
 
+## 🌱 Apprentissages en cours:
+- Approfondissement de ReactJS
+- Approfondissement de typescript
+- Next.js à suivre
+- Devops 
+
 ## 🌟 Stats
 ![Mes stats de langages d'après GitHub 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentGarcia369963&layout=compact&theme=radical)
 
