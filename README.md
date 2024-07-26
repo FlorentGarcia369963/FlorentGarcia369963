@@ -7,9 +7,9 @@
 - **bibliothèques**: React,
 - **Framework**: Express,
 - **Environnement d'exécution**: Node.js,
-- **Databases**: PostgreSQL,
-- **Tools**: Git,
-- **Templating Engines**: EJS
+- **Base de données**: PostgreSQL,
+- **Outil**: Git,
+- **Moteur de templates**: EJS
 
 ## 🚀 Projets
 
