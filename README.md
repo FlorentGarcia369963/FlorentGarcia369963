@@ -27,8 +27,11 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 - Devops 
 
 ## 🌟 Stats
+###Mes stats d'utilisation des langages d'après GitHub
 ![Mes stats de langages d'après GitHub 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentGarcia369963&layout=compact&theme=radical)
-Voici la véritable image de mes activités depuis le début de ma formation:+
+
+###Voici la véritable image de mes activités depuis le début de ma formation:
+
 ![image de mes stats](activite_github.png)
 
 
