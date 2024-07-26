@@ -2,7 +2,7 @@
 
 ---------- ANNONCE: Je cherche un stage du 23/09/24 au 19/11/24, puis un boulot ou une alternance par la suite !--------------
 
-## 🛠 Compétences actuelles (ça va encore évoluer d'ici la fin de la formation 😄):
+## 🛠 Compétences actuelles (ça va évoluer vite d'ici la fin de la formation, et encore après 😄):
 - **Langages**: HTML, CSS, Javascript, Typescript, SQL,
 - **bibliothèques**: React,
 - **Framework**: Express,
