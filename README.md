@@ -4,11 +4,11 @@
 
 ## 🛠 Compétences actuelles (ça va évoluer vite d'ici la fin de la formation, et encore après 😄):
 - **Langages**: HTML, CSS, Javascript, Typescript, SQL
-- **bibliothèques**: React/typescript
+- **Bibliothèque**: React/typescript
 - **Framework**: Express, Svelte/typescript
 - **Environnement d'exécution**: Node.js
 - **Base de données**: PostgreSQL
-- **Outil**: Git, Docker
+- **Outils**: Git, Docker
 - **Moteur de templates**: EJS
 
 ## 🚀 Projets
