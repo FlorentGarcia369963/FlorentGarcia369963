@@ -4,11 +4,11 @@
 
 ## 🛠 Compétences actuelles (ça va évoluer vite d'ici la fin de la formation, et encore après 😄):
 - **Langages**: HTML, CSS, Javascript, Typescript, SQL,
-- **bibliothèques**: React,
-- **Framework**: Express,
-- **Environnement d'exécution**: Node.js,
+- **bibliothèques**: React/typescript
+- **Framework**: Express, Svelte/typescript
+- **Environnement d'exécution**: Node.js
 - **Base de données**: PostgreSQL,
-- **Outil**: Git,
+- **Outil**: Git, Docker
 - **Moteur de templates**: EJS
 
 ## 🚀 Projets
@@ -21,10 +21,11 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 - **LinkedIn**: [Visitez mon profil!](https://www.linkedin.com/in/florent-garcia-dev/)
 
 ## 🌱 Apprentissages en cours:
-- Approfondissement de ReactJS
+- Approfondissement de ReactJS (vu: props, hooks basiques(useState, useEffect, useContext, useCallback), hook personnalisé pour le provider)
 - Approfondissement de typescript
-- Next.js à suivre
-- Devops 
+- Svelte (vu: toute la partie basique: composants, binding, props, évènements, stores, logiques)
+- AdonisJS à suivre
+- Next.js prévu
 
 ## 🌟 Stats
 ### Mes stats d'utilisation des langages d'après GitHub
