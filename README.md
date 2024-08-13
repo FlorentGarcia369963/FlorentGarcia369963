@@ -19,6 +19,9 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 ### [SPA-Monoreposiroty-Prokedex](https://github.com/FlorentGarcia369963/Monorepo-SPA-pokedex)
 Projet réalisé la 14ème semaine de la formation O'Clock. Mise en place d'un Pokédex en ligne via une API, en Single-Page-Application. Il n'y a pas de routage, vous trouverez donc une certaine quantité de modales =D . Pas de Framework ici, tout est en JS vanilla, React ne sera abordé que la semaine d'après.
 
+### [Exercice React](https://github.com/FlorentGarcia369963/Exercice-React)
+Projet réalisé entre les semaines 17 et 18 (2 semaines de congés qui m'ont permis de travailler entre autre React et Svelte). C'est un exercice bonus donné pour approfondir un peu React. Le but était de mettre en place un contexte d'authentification avec JWT. Le Backend était fourni au démarrage de l'exercice, il a fallu s'approprier le code.
+
 ## 📫 Contact
 - **Email**: [sahdry@hotmail.fr](mailto:sahdry@hotmail.fr)
 - **LinkedIn**: [Visitez mon profil!](https://www.linkedin.com/in/florent-garcia-dev/)
