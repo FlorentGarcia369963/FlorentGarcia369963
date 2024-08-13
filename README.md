@@ -16,6 +16,9 @@
 ### [O'Coffee](https://github.com/FlorentGarcia369963/OcoffeeFlo)
 A partir de la demande d'un client fictif, élaborer un site vitrine pour une boutique de café, puis en faire un site de e-commerce. C'est à la 9ème semaine de la formation O'Clock que ce projet a été réalisé, après 2 mois d'apprentissage intensif.
 
+### [SPA-Monoreposiroty-Prokedex](https://github.com/FlorentGarcia369963/Monorepo-SPA-pokedex)
+Projet réalisé la 14ème semaine de la formation O'Clock. Mise en place d'un Pokédex en ligne via une API, en Single-Page-Application. Il n'y a pas de routage, vous trouverez donc une certaine quantité de modales =D . Pas de Framework ici, tout est en JS vanilla, React ne sera abordé que la semaine d'après.
+
 ## 📫 Contact
 - **Email**: [sahdry@hotmail.fr](mailto:sahdry@hotmail.fr)
 - **LinkedIn**: [Visitez mon profil!](https://www.linkedin.com/in/florent-garcia-dev/)
