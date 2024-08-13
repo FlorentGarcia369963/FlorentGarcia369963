@@ -3,11 +3,11 @@
 ---------- ANNONCE: Je cherche un stage du 23/09/24 au 19/11/24, puis un boulot ou une alternance par la suite !--------------
 
 ## 🛠 Compétences actuelles (ça va évoluer vite d'ici la fin de la formation, et encore après 😄):
-- **Langages**: HTML, CSS, Javascript, Typescript, SQL,
+- **Langages**: HTML, CSS, Javascript, Typescript, SQL
 - **bibliothèques**: React/typescript
 - **Framework**: Express, Svelte/typescript
 - **Environnement d'exécution**: Node.js
-- **Base de données**: PostgreSQL,
+- **Base de données**: PostgreSQL
 - **Outil**: Git, Docker
 - **Moteur de templates**: EJS
 
