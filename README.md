@@ -18,9 +18,9 @@ A partir de la demande d'un client fictif, élaborer un site vitrine pour une bo
 
 ![Accueil](O'Coffee_Accueil.png)
 
-![catalogue](O'Coffee_Catalogue)
+![catalogue](O'Coffee_Catalogue.png)
 
-![panier](O'Coffee_Panier)
+![panier](O'Coffee_Panier.png)
 
 ### [SPA-Monoreposiroty-Prokedex](https://github.com/FlorentGarcia369963/Monorepo-SPA-pokedex)
 Projet réalisé la 14ème semaine de la formation O'Clock. Mise en place d'un Pokédex en ligne via une API, en Single-Page-Application. Il n'y a pas de routage, vous trouverez donc une certaine quantité de modales =D . Pas de Framework ici, tout est en JS vanilla, React ne sera abordé que la semaine d'après.
