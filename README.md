@@ -15,7 +15,7 @@
 
 ## 🚀 Projets
 
-### Social Secu
+### [Social Secu](https://github.com/FlorentGarcia369963/social_secu)
 Il s'agit de développer une application web simple permettant le transfert de fichiers en vue du traitement d'une demande. 
 Réalisé avec symfony 6.4, moteur de template Twig, un peu de javascript, et bootstrap pour le front-end.
 
