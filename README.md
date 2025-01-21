@@ -15,6 +15,10 @@
 
 ## 🚀 Projets
 
+### Social Secu
+Il s'agit de développer une application web simple permettant le transfert de fichiers en vue du traitement d'une demande. 
+Réalisé avec symfony 6.4, moteur de template Twig, un peu de javascript, et bootstrap pour le front-end.
+
 ### Todoleaf
 Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
 Front-end avec VueJS3, back-end avec Laravel, base de données sur SupaBase.
