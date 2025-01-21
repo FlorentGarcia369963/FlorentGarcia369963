@@ -1,17 +1,23 @@
 # 👋👋👋 Salutations et bienvenue sur mon profil GitHub 🌱
 
----------- ANNONCE: Je cherche un stage du 23/09/24 au 19/11/24, puis un boulot ou une alternance par la suite !--------------
+---------- ANNONCE: En recherche d'une alternance ou d'un poste en CDD/CDI :)--------------
 
-## 🛠 Compétences actuelles (ça va évoluer vite d'ici la fin de la formation, et encore après 😄):
-- **Langages**: HTML, CSS, Javascript, Typescript, SQL
+## 🛠 Compétences actuelles:
+- **Langages**: HTML, CSS, SASS/SCSSS Javascript, Typescript, SQL
 - **Bibliothèque**: React/typescript
-- **Framework**: Express, Svelte/typescript
+- **Framework Front-End**: VueJS3, Svelte/Typescript
+- **Framework Back-End**: Express, Laravel, Symfony
+- **Framework CSS**: Tailwind CSS
 - **Environnement d'exécution**: Node.js
-- **Base de données**: PostgreSQL
+- **Base de données**: PostgreSQL, SupaBase
 - **Outils**: Git, Docker
-- **Moteur de templates**: EJS
+- **Moteur de templates**: EJS, Twig
 
 ## 🚀 Projets
+
+### Todoleaf
+Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
+Front-end avec VueJS3, back-end avec Laravel, base de données sur SupaBase.
 
 ### [O'Coffee](https://github.com/FlorentGarcia369963/OcoffeeFlo)
 A partir de la demande d'un client fictif, élaborer un site vitrine pour une boutique de café, puis en faire un site de e-commerce. C'est à la 9ème semaine de la formation O'Clock que ce projet a été réalisé, après 2 mois d'apprentissage intensif.
@@ -33,19 +39,10 @@ Projet réalisé entre les semaines 17 et 18 (2 semaines de congés qui m'ont pe
 - **LinkedIn**: [Visitez mon profil!](https://www.linkedin.com/in/florent-garcia-dev/)
 
 ## 🌱 Apprentissages en cours:
-- Approfondissement de ReactJS (vu: props, hooks basiques(useState, useEffect, useContext, useCallback), hook personnalisé pour le provider)
-- Approfondissement de typescript
-- Svelte (vu: toute la partie basique: composants, binding, props, évènements, stores, logiques)
-- AdonisJS à suivre
-- Next.js prévu
+- Symfony
+- VueJS
+- En recherche d'un poste titulaire ou en alternance, la priorité ira sur les technologies utilisées sur le poste
 
-## 🌟 Stats
-### Mes stats d'utilisation des langages d'après GitHub
-![Mes stats de langages d'après GitHub 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentGarcia369963&layout=compact&theme=radical)
-
-### Voici la véritable image de mes activités du début de ma formation au 26/07/24:
-
-![image de mes stats](activite_github.png)
 
 
 
