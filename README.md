@@ -13,6 +13,9 @@
 - **Outils**: Git, Docker
 - **Moteur de templates**: EJS, Twig
 
+  Je souhaite me spécialiser dans VueJS/Laravel ou VueJS/NodeJS, mais la réalité du marché étant ce qu'elle est, j'apprendrai le langage qu'il faut pour rejoindre votre projet. J'apprendrai JAVA/Angular si nécessaire, duo très utilisé autour de moi.
+  
+
 ## 🚀 Projets
 ### [Kerem&Co](https://github.com/FlorentGarcia369963/Kerem)
 En cours de construction, il s'agit d'un site statique pour aider un ami dans sa carrière de musicien. J'utilise svelte pour profiter de facilités tout en gardant un site très léger, puisque le code est compilé en js natif au bout du compte. J'ai également utilisé tailwind pour l'efficacité que cet outil apporte.
@@ -56,7 +59,13 @@ Projet réalisé entre les semaines 17 et 18 (2 semaines de congés qui m'ont pe
 ## 🌱 Apprentissages en cours:
 - Symfony
 - VueJS
-- En recherche d'un poste titulaire ou en alternance, la priorité ira sur les technologies utilisées sur le poste
+
+
+## 🔭 Projets en cours
+- Avant tout, la recherche d'un poste titulaire ou en alternance :)
+- Site vitrine de Kerem&Co
+- Application Social_secu en appuie pour une candidature
+- Autres idées: jeu de pazaak, application autour de la conjugaison avec l'auxiliaire avoir, qui serait d'utilité publique, autres applis autour de l'agriculture... les idées fusent.
 
 
 
