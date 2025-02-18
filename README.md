@@ -61,7 +61,7 @@ Projet réalisé entre les semaines 17 et 18 (2 semaines de congés qui m'ont pe
 ## 🔭 Projets en cours
 - Avant tout, la recherche d'un poste titulaire ou en alternance :)
 - Site vitrine de Kerem&Co
-- Application Social_secu en appuie pour une candidature
+- Application Social_secu en appui pour une candidature comme développeur symfony
 - Autres idées: jeu de pazaak, application autour de la conjugaison avec l'auxiliaire avoir, qui serait d'utilité publique, autres applis autour de l'agriculture... les idées fusent.
 
 
