@@ -23,6 +23,10 @@ Réalisé avec symfony 6.4, moteur de template Twig, un peu de javascript, et bo
 Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
 Front-end avec VueJS3, TailwindCSS, back-end avec Laravel, base de données sur SupaBase.
 
+![Accueil](todoleaf_accueil_desktop)
+![Ajout_tache](todoleaf_ajout_tache_desktop)
+![plante](todoleaf_maplante)
+
 ### CinéDélices front-end(https://github.com/O-clock-Pancakes/cinedelices-front), back-end(https://github.com/O-clock-Pancakes/cinedelices-back) 
 Un client (fictif!) dont la spécialité est la diffusion de films, séries et mangas en streaming nous a contacté car il souhaite mettre en oeuvre une stratégie qui pourrait le propulser au-delà de ses grands concurrents. Il s’agit de créer une communauté autour de la cuisine inspirée voire tirée de leurs diffusions. Il a donc besoin de nos services pour créer un site qui proposerait des recettes originales rattachées à une diffusion, et de donner l’occasion aux utilisateurs inscrits de proposer leurs propres recettes et anecdotes, puis pour mettre en place un système de commentaires, et de likes.
 ![Accueil](cinedelices_accueil.PNG)
