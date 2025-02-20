@@ -17,22 +17,24 @@
   
 
 ## 🚀 Projets
+### [Todoleaf](https://github.com/Todoleaf)
+Technos: VueJS, Vite, TailwindCSS, Laravel, Redis, SupaBase, Docker.
+Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
+Front-end avec VueJS3, TailwindCSS, back-end avec Laravel, base de données sur SupaBase.
+
+
+### [CinéDélices front-end](https://github.com/O-clock-Pancakes/cinedelices-front), [CinéDélices back-end](https://github.com/O-clock-Pancakes/cinedelices-back) 
+Technos: React-Typescript, Vite, TailwindCSS, ExpressJs, Docker.
+Un client (fictif!) dont la spécialité est la diffusion de films, séries et mangas en streaming nous a contacté car il souhaite mettre en oeuvre une stratégie qui pourrait le propulser au-delà de ses grands concurrents. Il s’agit de créer une communauté autour de la cuisine inspirée voire tirée de leurs diffusions. Il a donc besoin de nos services pour créer un site qui proposerait des recettes originales rattachées à une diffusion, et de donner l’occasion aux utilisateurs inscrits de proposer leurs propres recettes et anecdotes, puis pour mettre en place un système de commentaires, et de likes.
+![Accueil](cinedelices_accueil.PNG)
+![catalogue](cinedelices_catalogue.PNG)
+
 ### [Kerem&Co](https://github.com/FlorentGarcia369963/Kerem)
 En cours de construction, il s'agit d'un site statique pour aider un ami dans sa carrière de musicien. J'utilise svelte pour profiter de facilités tout en gardant un site très léger, puisque le code est compilé en js natif au bout du compte. J'ai également utilisé tailwind pour l'efficacité que cet outil apporte.
 
 ### [Social Secu](https://github.com/FlorentGarcia369963/social_secu)
 Il s'agit de développer une application web simple permettant le transfert de fichiers en vue du traitement d'une demande. 
 Réalisé avec symfony 6.4, moteur de template Twig, un peu de javascript, et bootstrap pour le front-end.
-
-### [Todoleaf](https://github.com/Todoleaf)
-Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
-Front-end avec VueJS3, TailwindCSS, back-end avec Laravel, base de données sur SupaBase.
-
-
-### [CinéDélices front-end](https://github.com/O-clock-Pancakes/cinedelices-front), [CinéDélices back-end](https://github.com/O-clock-Pancakes/cinedelices-back) 
-Un client (fictif!) dont la spécialité est la diffusion de films, séries et mangas en streaming nous a contacté car il souhaite mettre en oeuvre une stratégie qui pourrait le propulser au-delà de ses grands concurrents. Il s’agit de créer une communauté autour de la cuisine inspirée voire tirée de leurs diffusions. Il a donc besoin de nos services pour créer un site qui proposerait des recettes originales rattachées à une diffusion, et de donner l’occasion aux utilisateurs inscrits de proposer leurs propres recettes et anecdotes, puis pour mettre en place un système de commentaires, et de likes.
-![Accueil](cinedelices_accueil.PNG)
-![catalogue](cinedelices_catalogue.PNG)
 
 ### [O'Coffee](https://github.com/FlorentGarcia369963/OcoffeeFlo)
 À partir de la demande d'un client fictif, élaborer un site vitrine pour une boutique de café, puis en faire un site de e-commerce. C'est à la 9ème semaine de la formation O'Clock que ce projet a été réalisé, après 2 mois d'apprentissage intensif.
