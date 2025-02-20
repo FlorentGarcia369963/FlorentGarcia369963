@@ -21,10 +21,10 @@
 Technos: VueJS, Vite, TailwindCSS, Laravel, Redis, SupaBase, Docker.
 Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
 #### Quelques extraits d'interfaces utilisateur
-[!interfaces utilisateur](todoleaf_ui.png)
+![interfaces utilisateur](todoleaf_ui.png)
 
 #### Quelques extraits de HTML, Tailwind et JS
-[!extraits de js](todoleaf_js.png)
+![extraits de js](todoleaf_js.png)
 
 ### [CinéDélices front-end](https://github.com/O-clock-Pancakes/cinedelices-front), [CinéDélices back-end](https://github.com/O-clock-Pancakes/cinedelices-back) 
 Technos: React-Typescript, Vite, TailwindCSS, ExpressJs, Docker.
