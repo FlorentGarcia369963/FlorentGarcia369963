@@ -36,7 +36,7 @@ Un client (fictif!) dont la spécialité est la diffusion de films, séries et m
 Technos: Svelte, Tailwind, Sanity.
 En cours de construction, il s'agit d'un site statique pour aider un ami dans sa carrière de musicien. J'utilise svelte pour profiter de facilités tout en gardant un site très léger, puisque le code est compilé en js natif au bout du compte. J'ai également utilisé tailwind pour l'efficacité que cet outil apporte.
 
-### [Social Secu](https://github.com/FlorentGarcia369963/social_secu)
+### [Social Secu](https://github.com/FlorentGarcia369963/mini_secu)
 Technos: Symfony 6.4, JS Vanilla, bootstrap, Twig, Docker.
 Il s'agit de développer une application web simple permettant le transfert de fichiers en vue du traitement d'une demande. 
 Réalisé avec symfony 6.4, moteur de template Twig, un peu de javascript, et bootstrap pour le front-end.
