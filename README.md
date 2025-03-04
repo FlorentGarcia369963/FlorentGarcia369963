@@ -17,6 +17,10 @@
   
 
 ## 🚀 Projets
+### [Académie du Bonsaï - Apprendre Angular](https://github.com/FlorentGarcia369963/Bonsais)
+Technos: Angular 19, TailwindCSS
+Projet en cours, le but est d'apprendre Angular pour m'adapter au marché alentour. Jusque là j'aime beaucoup, c'est très structuré et logique.
+
 ### [Todoleaf](https://github.com/Todoleaf)
 Technos: VueJS, Vite, TailwindCSS, Laravel, Redis, SupaBase, Docker.
 Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d'un outil de gestion de plantes (prévoir différents traitements pour nos plantes afin d'en prendre soin au mieux).
