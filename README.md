@@ -36,9 +36,9 @@ Un client (fictif!) dont la spécialité est la diffusion de films, séries et m
 ![Accueil](cinedelices_accueil.PNG)
 ![catalogue](cinedelices_catalogue.PNG)
 
-### [Kerem&Co](https://github.com/FlorentGarcia369963/Kerem)
-Technos: Svelte, Tailwind, Sanity.
-En cours de construction, il s'agit d'un site statique pour aider un ami dans sa carrière de musicien. J'utilise svelte pour profiter de facilités tout en gardant un site très léger, puisque le code est compilé en js natif au bout du compte. J'ai également utilisé tailwind pour l'efficacité que cet outil apporte.
+### [Kerem&Co]([https://github.com/FlorentGarcia369963/Kerem](https://github.com/FlorentGarcia369963/kerem-astro))
+Technos: AstroJS, Svelte, Tailwind.
+En cours de construction, il s'agit d'un site statique pour aider un ami dans sa carrière de musicien. J'ai démarré ce site en svelte puis j'ai migré sur Astro. Svelte est utilisé sur certains composants. Astro permet de tout compiler en HTML et de ne charger le JS que lorsque nécessaire. Au bout du compte, je profite de la syntaxe simple de Svelte, et j'obtiens un site ultra léger. J'ai également utilisé tailwind pour l'efficacité que cet outil apporte.
 
 ### [Social Secu](https://github.com/FlorentGarcia369963/mini_secu)
 Technos: Symfony 6.4, JS Vanilla, bootstrap, Twig, Docker.
