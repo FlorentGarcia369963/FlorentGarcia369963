@@ -30,7 +30,7 @@ Stage de 2 mois réalisé de septembre à novembre 2024 pour le développement d
 #### Quelques extraits de HTML, Tailwind et JS
 ![extraits de js](todoleaf_js.png)
 
-### [CinéDélices front-end](https://github.com/O-clock-Pancakes/cinedelices-front), [CinéDélices back-end](https://github.com/O-clock-Pancakes/cinedelices-back) 
+### [CinéDélices](https://github.com/orgs/Cinedelices/repositories)
 Technos: React-Typescript, Vite, TailwindCSS, ExpressJs, Docker.
 Un client (fictif!) dont la spécialité est la diffusion de films, séries et mangas en streaming nous a contacté car il souhaite mettre en oeuvre une stratégie qui pourrait le propulser au-delà de ses grands concurrents. Il s’agit de créer une communauté autour de la cuisine inspirée voire tirée de leurs diffusions. Il a donc besoin de nos services pour créer un site qui proposerait des recettes originales rattachées à une diffusion, et de donner l’occasion aux utilisateurs inscrits de proposer leurs propres recettes et anecdotes, puis pour mettre en place un système de commentaires, et de likes.
 ![Accueil](cinedelices_accueil.PNG)
