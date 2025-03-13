@@ -13,7 +13,7 @@
 - **Outils**: Git, Docker
 - **Moteur de templates**: EJS, Twig
 
-  Je souhaite me spécialiser dans VueJS/Laravel ou VueJS/NodeJS, mais la réalité du marché étant ce qu'elle est, j'apprendrai le langage qu'il faut pour rejoindre votre projet. J'apprendrai JAVA/Angular si nécessaire, duo très utilisé autour de moi.
+  Je souhaite me spécialiser dans JAVA/Angular, duo très utilisé autour de moi, et cherche une alternance à partir d'août 2025.
   
 
 ## 🚀 Projets
