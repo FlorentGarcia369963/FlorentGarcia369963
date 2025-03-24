@@ -2,6 +2,8 @@
 
 ---------- ANNONCE: En recherche d'une alternance ou d'un poste en CDD/CDI :)--------------
 
+Visitez mon portfolio: [www.florent-garcia.fr](https://www.florent-garcia.fr)
+
 ## 🛠 Compétences actuelles:
 - **Langages**: HTML, CSS, SASS/SCSSS Javascript, Typescript, SQL
 - **Bibliothèque**: React/typescript
